@@ -265,4 +265,7 @@ users.filter(users =>{
 }
 })
 
-console.log(org,net,info,other);
+console.log(org);
+console.log(net);
+console.log(info);
+console.log(other);
